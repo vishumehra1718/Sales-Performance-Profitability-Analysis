@@ -74,32 +74,19 @@ This project focuses on analyzing retail sales performance using \*\*SQL\*\* for
 
 Sales-Performance-Analysis/
 
-│
 
 ├── data/
-
 │   └── raw\_sales\_data.xlsx
-
 │
-
 ├── sql/
-
 │   └── sales\_analysis\_queries.sql
-
 │
-
 ├── powerbi/
-
 │   └── sales\_dashboard.pbix
-
 │
-
 ├── images/
-
 │   └── dashboard\_preview.png
-
 │
-
 └── README.md
 
 ```
